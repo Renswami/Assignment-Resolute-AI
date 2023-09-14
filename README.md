@@ -27,9 +27,7 @@ public class resoluteAIPVTLTDassignment {
 	    Thread.sleep(15000);
 	    driver.quit();
 		
-        
-		
-		
+        	
 		
 	}
 
