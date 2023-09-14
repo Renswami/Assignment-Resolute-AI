@@ -24,7 +24,7 @@ public class resoluteAIPVTLTDassignment {
 		WebElement login= driver.findElement(By.xpath("//button[@type='submit']"));
 		login.click();
 		
-	    Thread.sleep(15000);
+	    Thread.sleep(18000);
 	    driver.quit();
 		
         	
